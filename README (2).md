@@ -4,19 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(12/7/2017)
 
 ### Student Name:  
-(First and Last Name)
+(Sydney Vincent)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(Using API to build a weather web application.)
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+(https://smv13.github.io/extracredit/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (An application programming interface key (API key) is a code passed in by computer programs calling
+an API to identify the calling program, its developer, or its user to the Web site..)
+2. (Several pre-built styles and features of the
+Bootstrap framework are included to design the front-end to create a responsively visually appealing
+application.)
+3. (List Group - displays weather information retrieved from the server)
